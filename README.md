@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ReactNative
 - 💬 Ask me about Full stack Development
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dineshbabu56/)(dineshbabu.r56@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dineshbabu56/),dineshbabu.r56@gmail.com
 
 ### About ME!
 <hr/>
