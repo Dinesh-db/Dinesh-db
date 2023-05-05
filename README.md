@@ -11,4 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dineshbabu56/)
 
 ### About ME!
-(<hr/>)
+<hr/>
+  <li>I am Dinesh Babu from Triuppur.I am currently persuing BE-Computer Science and Engineering in Kongu Engineering College.</li>
+  <li>I am a Enthusiastic and Hard Working person.</li>
