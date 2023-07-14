@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **react,java**
+- 💬 Ask me about **react,java,python**
 
 - 📫 How to reach me **dineshbabu.r56@gmail.com**
 
