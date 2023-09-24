@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Deep learning**
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **react,java,python**
 
