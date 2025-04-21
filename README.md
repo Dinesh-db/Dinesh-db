@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/dinesh10231496" target="blank"><img src="https://img.shields.io/twitter/follow/dinesh10231496?logo=twitter&style=for-the-badge" alt="dinesh10231496" /></a> </p>
 
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **Nodejs**
 
 - 💬 Ask me about **Angular,react,java,python**
 
