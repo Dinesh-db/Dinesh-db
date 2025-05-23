@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://twitter.com/dinesh10231496" target="blank"><img src="https://img.shields.io/twitter/follow/dinesh10231496?logo=twitter&style=for-the-badge" alt="dinesh10231496" /></a> </p>
 
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Cyber Security**
 
-- 💬 Ask me about **Angular,react,java,python**
+- 💬 Ask me about **Angular,react,java,node**
 
 - 📫 How to reach me **dineshbabu.r56@gmail.com**
 
